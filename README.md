@@ -25,7 +25,7 @@ To install the libraries used in this project, follow the below steps
   pip install streamlit
 ```
     
-![Logo](https://github.com/badhan2405/Uber-System-Analysing/blob/main/f452c7aefd72a6f52b36705c8015464e.jpg)
+![Logo](https://thumbs.dreamstime.com/b/machine-deep-learning-algorithms-artificial-intelligence-ai-automation-modern-technology-business-as-concept-134359416.jpg)
 
 
 ## 🚀 About Me
